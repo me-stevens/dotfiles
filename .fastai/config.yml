@@ -1,0 +1,3 @@
+data_archive_path: /opt/virtualenvwrapper/fastai/data/
+data_path: /opt/virtualenvwrapper/fastai/data/
+model_path: /opt/virtualenvwrapper/fastai/data/models

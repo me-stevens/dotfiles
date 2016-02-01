@@ -1,0 +1,97 @@
+"*":
+  "atom-package-deps":
+    ignored: []
+  "atom-workspace":
+    "alt-shift-p": "pigments:show-palette"
+  core:
+    customFileTypes:
+      "source.shell": [
+        "bash_aliases"
+        "conf"
+        "everypolitician"
+        "gemrc"
+        "gitignore"
+        "profile"
+        "smiley_prompt"
+        "vimrc"
+      ]
+      "text.tex.latex": [
+        "lytex"
+      ]
+    disabledPackages: [
+      "pigments"
+    ]
+    packagesWithKeymapsDisabled: [
+      "spell-check"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 12
+    invisibles: {}
+    preferredLineLength: 64
+    softWrap: true
+    tabLength: 2
+  "exception-reporting":
+    userId: "c1261ceb-53dd-41a7-92c0-13e6ae643dab"
+  linter: {}
+  "linter-eslint": {}
+  "linter-flake8":
+    ignoreErrorCodes: [
+      "E221"
+      "E501"
+    ]
+  "linter-phpcs":
+    tabWidth: 4
+  "linter-ui-default":
+    showPanel: true
+  "spell-check":
+    grammars: [
+      "source.asciidoc"
+      "source.gfm"
+      "text.git-commit"
+      "text.plain"
+      "text.plain.null-grammar"
+      "text.tex.latex"
+      "text.md"
+    ]
+    locales: [
+      "en-GB"
+    ]
+  "tabs-to-spaces":
+    onSave: "untabify"
+  "tree-view":
+    hideVcsIgnoredFiles: false
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ensureSingleTrailingNewline: true
+".basic.html.text":
+  editor:
+    tabLength: 2
+".c.source":
+  editor:
+    tabLength: 4
+".cpp.source":
+  editor:
+    tabLength: 4
+".cs.source":
+  editor:
+    tabLength: 4
+".erb.html.text":
+  editor:
+    tabLength: 2
+".html.jsp.text":
+  editor:
+    tabLength: 4
+".html.php.text":
+  editor:
+    tabLength: 4
+".html.ruby.text":
+  editor:
+    tabLength: 2
+".java.source":
+  editor:
+    tabLength: 4
+".python.source":
+  editor:
+    tabLength: 4

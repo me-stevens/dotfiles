@@ -1,0 +1,15 @@
+# If you mark your commonly-used packages with stars, you can install them super-simple by typing: apm stars --install.
+# There is also Sync Settings: https://atom.io/packages/sync-settings
+.atom/.apm/
+.atom/blob-store/
+.atom/compile-cache/
+.atom/dev/
+.atom/.npm/
+.atom/.node-gyp/
+.atom/packages/
+.atom/storage/
+.atom/nohup.out
+.DS_Store
+.sass_cache
+.Thumbs.db
+.Desktop.ini
